@@ -1,4 +1,6 @@
-### I'm Murewa; a software developer and technical writer.
+### Hi there 👋, I'm Murewa
+
+#### I am a software developer and technical writer
 
 I don't have a bio but I'm writing my auto-biography.
 
