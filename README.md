@@ -17,8 +17,8 @@ I don't have a bio but I'm writing my auto-biography.
 
 ## Hashnode Blog Post
 
-<!-- HASHNODE:START -->
-<!-- HASHNODE:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [![Murewa's github stats](https://github-readme-stats.vercel.app/api?username=murewaashiru&count_private=true&show_icons=true&theme=algolia)](https://github.com/murewaashiru/github-readme-stats)
 
