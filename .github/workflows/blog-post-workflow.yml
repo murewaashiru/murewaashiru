@@ -1,8 +1,8 @@
 name: Lastest Hashnode Blog Post
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+    # Runs at 00:00 UTC every day
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: murewaashiru/murewaashiru@main
+      - uses: murewaashiru/blog-post-workflow@main
         with:
           comment_tag_name: 'HASHNODE'
           commit_message: 'Updated readme with the latest Hashnode Blog data'
