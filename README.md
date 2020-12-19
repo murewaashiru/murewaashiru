@@ -2,16 +2,6 @@
 
 #### I am a software developer and technical writer
 
-<p align="center">
-  <b><i>Let's connect!</i></b>
-
-  [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/murewageorge-ashiru/)](https://www.linkedin.com/in/murewageorge-ashiru/)
-  [![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/rachael_xx)](https://twitter.com/rachael_xx)
-  [![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://murewaashiru.hashnode.dev/)
-  [![Gmail Badge](https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:rachelleashiru@gmail.com)
-</p> 
-<hr />
-
 I don't have a bio but I'm writing my auto-biography.
 - 🔭 I’m currently working on shhh, it's a secret :smirk:
 - 🌱 I’m currently learning to celebrate my wins and be more active in the tech community
@@ -19,7 +9,12 @@ I don't have a bio but I'm writing my auto-biography.
 - 😄 Pronouns: Her/She
 - 💬 Ask me about NodeJS, testing and software documentation.
 - ⚡ Fun fact: I love watching movies
-
+- 📫 Let's connect: 
+  [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/murewageorge-ashiru/)](https://www.linkedin.com/in/murewageorge-ashiru/)
+  [![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/rachael_xx)](https://twitter.com/rachael_xx)
+  [![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://murewaashiru.hashnode.dev/)
+  [![Gmail Badge](https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:rachelleashiru@gmail.com)
+  
 ## Hashnode Blog Post
 
 <!-- HASHNODE:START -->
