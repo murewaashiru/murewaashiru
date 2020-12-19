@@ -7,8 +7,8 @@
 </p>
 
   [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/murewageorge-ashiru/)](https://www.linkedin.com/in/murewageorge-ashiru/)
-  
   [![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/rachael_xx)](https://twitter.com/rachael_xx)
+   [![Hashnode Badge](https://img.shields.io/badge/Hashnode-%230077B5.svg?&style=for-the-badge&logo=Hashnode&logoColor=white&link=https://murewaashiru.hashnode.dev/](https://murewaashiru.hashnode.dev/)
   
 <hr />
 
