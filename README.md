@@ -7,9 +7,8 @@
 
   [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/murewageorge-ashiru/)](https://www.linkedin.com/in/murewageorge-ashiru/)
   [![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/rachael_xx)](https://twitter.com/rachael_xx)
-  [![Hashnode Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&link](https://murewaashiru.hashnode.dev/)
-   [<img height="30" src="https://img.shields.io/badge/Hashnode-%230077B5.svg?&style=for-the-badge&logo=Hashnode&logoColor=white" />][Hashnode]
-  <a href="mailto:rachelleashiru@gmail.com" style="text-decoration:none"><img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+  [![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://murewaashiru.hashnode.dev/)
+  [![Gmail Badge](https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:rachelleashiru@gmail.com)
 </p> 
 <hr />
 
@@ -32,10 +31,6 @@ I don't have a bio but I'm writing my auto-biography.
 <!-- HASHNODE:END -->
 
 [![Murewa's github stats](https://github-readme-stats.vercel.app/api?username=murewaashiru&count_private=true&show_icons=true&theme=algolia)](https://github.com/murewaashiru/github-readme-stats)
-
-[Hashnode]: https://murewaashiru.hashnode.dev/
-[gmail]: https://gmail.com
-
 
 <!--
 **murewaashiru/murewaashiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
