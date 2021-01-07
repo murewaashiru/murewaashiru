@@ -18,11 +18,11 @@ I don't have a bio but I'm writing my auto-biography.
 ## Hashnode Blog Post
 
 <!-- HASHNODE:START -->
+- [Journey in Tech: Tough times don't last, tough people do](https://murewaashiru.hashnode.dev/journey-in-tech-tough-times-dont-last-tough-people-do)
 - [Journey in Tech: How it started vs How it's going](https://murewaashiru.hashnode.dev/journey-in-tech-how-it-started-vs-how-its-going)
 - [Payment Service Integration- 200 countries covered](https://murewaashiru.hashnode.dev/payment-service-integration-200-countries-covered)
 - [My Experience at the Hashnode Technical Writing Bootcamp](https://murewaashiru.hashnode.dev/my-experience-at-the-hashnode-technical-writing-bootcamp)
 - [Node.js and PostgreSQL without an ORM](https://murewaashiru.hashnode.dev/nodejs-and-postgresql-without-an-orm)
-- [Exploring The Movie DB in Node.js](https://murewaashiru.hashnode.dev/exploring-the-movie-db-in-nodejs)
 <!-- HASHNODE:END -->
 
 [![Murewa's github stats](https://github-readme-stats.vercel.app/api?username=murewaashiru&count_private=true&show_icons=true&theme=algolia)](https://github.com/murewaashiru/github-readme-stats)
