@@ -7,7 +7,7 @@ I don't have a bio but I'm writing my auto-biography.
 - 🌱 I’m currently learning to celebrate my wins and be more active in the tech community
 - 👯 I’m looking to collaborate on open source projects.
 - 😄 Pronouns: Her/She
-- 💬 Ask me about NodeJS, testing and software documentation.
+- 💬 Ask me about NodeJS, testing and technical documentation.
 - ⚡ Fun fact: I love watching movies
 - 📫 Let's connect: 
   [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/murewageorge-ashiru/)](https://www.linkedin.com/in/murewageorge-ashiru/)
@@ -26,8 +26,8 @@ I don't have a bio but I'm writing my auto-biography.
 <!-- HASHNODE:END -->
 
 [![Murewa's github stats](https://github-readme-stats.vercel.app/api?username=murewaashiru&count_private=true&show_icons=true&theme=algolia)](https://github.com/murewaashiru/github-readme-stats)
+
 ![Murewa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=murewaashiru&theme=algolia&show_icons=true)
-![Profile views](https://gpvc.arturio.dev/murewaashiruv)  
 
 <!--
 **murewaashiru/murewaashiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
