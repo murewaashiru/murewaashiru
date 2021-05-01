@@ -1,23 +1,24 @@
 ### Hi there 👋, I'm Murewa
 
-#### I am a software developer and technical writer
+#### I am an IT business analyst, software developer and technical writer
 
 I don't have a bio but I'm writing my auto-biography.
+
 - 🔭 I’m currently working on shhh, it's a secret :smirk:
 - 🌱 I’m currently learning to celebrate my wins and be more active in the tech community
 - 👯 I’m looking to collaborate on open source projects.
 - 😄 Pronouns: Her/She
 - 💬 Ask me about NodeJS, testing and technical documentation.
-- ⚡ Fun fact: I love watching movies
-- 📫 Let's connect: 
+- 📫 Let's connect:
   [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/murewageorge-ashiru/)](https://www.linkedin.com/in/murewageorge-ashiru/)
   [![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/rachael_xx)](https://twitter.com/rachael_xx)
-  [![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://murewaashiru.hashnode.dev/)
+  [![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.murewaashiru.com/)
   [![Gmail Badge](https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:rachelleashiru@gmail.com)
-  
+
 ## Hashnode Blog Post
 
 <!-- HASHNODE:START -->
+
 - [Designing the Backend System of an Agritech App](https://blog.murewaashiru.com/designing-the-backend-system-of-an-agritech-app)
 - [I like JavaScript, so should you! Here's why](https://blog.murewaashiru.com/i-like-javascript-so-should-you-heres-why)
 - [Journey in Tech: Tough times don't last, tough people do](https://blog.murewaashiru.com/journey-in-tech-tough-times-dont-last-tough-people-do)
