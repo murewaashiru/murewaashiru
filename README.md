@@ -18,7 +18,6 @@ I don't have a bio but I'm writing my auto-biography.
 ## Hashnode Blog Post
 
 <!-- HASHNODE:START -->
-
 - [Designing the Backend System of an Agritech App](https://blog.murewaashiru.com/designing-the-backend-system-of-an-agritech-app)
 - [I like JavaScript, so should you! Here's why](https://blog.murewaashiru.com/i-like-javascript-so-should-you-heres-why)
 - [Journey in Tech: Tough times don't last, tough people do](https://blog.murewaashiru.com/journey-in-tech-tough-times-dont-last-tough-people-do)
