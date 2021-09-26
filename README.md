@@ -28,8 +28,6 @@ I don't have a bio but I'm writing my auto-biography.
 [![Murewa's github stats](https://github-readme-stats.vercel.app/api?username=murewaashiru&count_private=true&show_icons=true&theme=algolia)](https://github.com/murewaashiru/github-readme-stats)
 
 ![Murewa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=murewaashiru&theme=algolia&show_icons=true)
-![Murewa's Top Languages Per Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=murewaashiru&theme=algolia&show_icons=true)
-![Murewa's Top Languages Per Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=murewaashiru&theme=algolia&show_icons=true)
 
 <!--
 **murewaashiru/murewaashiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
