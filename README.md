@@ -18,7 +18,7 @@ I don't have a bio but I'm writing my auto-biography.
 ## Hashnode Blog Post
 
 <!-- HASHNODE:START -->
-- [Hackathons/Programs to Watch out for in Q4, 2021](https://blog.murewaashiru.com/hackathonsprograms-to-watch-out-for-in-q4-2021)
+- [Hackathons/Programs to watch out for in Q4, 2021](https://blog.murewaashiru.com/hackathonsprograms-to-watch-out-for-in-q4-2021)
 - [Stress: The inevitable](https://blog.murewaashiru.com/stress-the-inevitable)
 - [Designing the Backend System of an Agritech App](https://blog.murewaashiru.com/designing-the-backend-system-of-an-agritech-app)
 - [I like JavaScript, so should you! Here's why](https://blog.murewaashiru.com/i-like-javascript-so-should-you-heres-why)
