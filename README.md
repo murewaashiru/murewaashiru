@@ -8,7 +8,7 @@ I don't have a bio but I'm writing my auto-biography.
 - 🌱 I’m currently learning to celebrate my wins and be more active in the tech community
 - 👯 I’m looking to collaborate on open source projects.
 - 😄 Pronouns: Her/She
-- 💬 Ask me about NodeJS, testing and technical documentation.
+- 💬 Ask me about NodeJS, Java and technical documentation.
 - 📫 Let's connect:
   [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/murewageorge-ashiru/)](https://www.linkedin.com/in/murewageorge-ashiru/)
   [![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/rachael_xx)](https://twitter.com/rachael_xx)
