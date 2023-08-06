@@ -23,7 +23,8 @@ I don't have a bio but I'm writing my autobiography.
 - [Hackathons/Programs to watch out for in Q4, 2021](https://blog.murewaashiru.com/hackathonsprograms-to-watch-out-for-in-q4-2021)
 - [Stress: The inevitable](https://blog.murewaashiru.com/stress-the-inevitable)
 - [Designing the Backend System of an Agritech App](https://blog.murewaashiru.com/designing-the-backend-system-of-an-agritech-app)
-- [Node.js and PostgreSQL without an ORM]([https://blog.murewaashiru.com/i-like-javascript-so-should-you-heres-why](https://blog.murewaashiru.com/nodejs-and-postgresql-without-an-orm))
+- [Node.js and PostgreSQL without an ORM](https://blog.murewaashiru.com/nodejs-and-postgresql-without-an-orm)
+
 <!-- HASHNODE:END -->
 
 <!-- [![Murewa's github stats](https://github-readme-stats.vercel.app/api?username=murewaashiru&count_private=true&show_icons=true&theme=algolia)](https://github.com/murewaashiru/github-readme-stats) -->
